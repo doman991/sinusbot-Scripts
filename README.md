@@ -1,2 +1,2 @@
 # sinusbot-Scripts
-Mt sinusbot Scripts
+My sinusbot Scripts
